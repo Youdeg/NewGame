@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\skript\buttons.cs">
+    <Files>
+      <File FileName="Assets\skript\camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\skript\playerContrl.cs" Line="53" Column="14" />
+      <File FileName="Assets\skript\move.cs" Line="1" Column="1" />
+      <File FileName="Assets\skript\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\skript\buttons.cs" Line="21" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
